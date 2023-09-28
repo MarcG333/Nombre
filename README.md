@@ -1,3 +1,3 @@
 # Nombre
-Marc Giménez
-Alejandro Chulilla
+Marc Giménez (Jefe)
+Alejandro Chulilla (M1 y M2)
